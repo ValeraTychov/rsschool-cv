@@ -5,11 +5,14 @@
 ## Contacts
 
 - Location: Wroclaw, Poland
-- Phone: +48 573 ### ###
-- Email: y######a@###mail.com
+- Phone: [+48 573 ### ###](# "No phone fraud")
+- Email: [y######a@###mail.com](# "No spam")
 - GitHub: ValeraTychov
+- Discord: VT (@ValeraTychov)
 
 ## About Me
+
+I like beer and code. I aim to cover knowlege gaps and improve vocabulary to communicate frontend specialists effectively.
 
 ## Skills
 
@@ -27,6 +30,10 @@ function numberToString(num) {
 ```
 
 ## Experience
+
+I used to learn HTML/CSS/JS/ 5 years ago. Have some experimental projects.
+
+- https://github.com/ValeraTychov/15puzzle
 
 ## Education
 
