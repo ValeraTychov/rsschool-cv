@@ -33,7 +33,7 @@ function numberToString(num) {
 
 I used to learn HTML/CSS/JS/ 5 years ago. Have some experimental projects.
 
-- https://github.com/ValeraTychov/15puzzle
+- [15 Puzzle Game](https://github.com/ValeraTychov/15puzzle)
 
 ## Education
 
